@@ -1,0 +1,24 @@
+{
+  "name": "web700-app",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Oussama Issam Ferjani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamFerjani/Cycliic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SamFerjani/Cycliic/issues"
+  },
+  "homepage": "https://github.com/SamFerjani/Cycliic#readme"
+}
